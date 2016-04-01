@@ -1,0 +1,9 @@
+C:\Other Dev\ProxySwitcher\ProxySwitcher\bin\Debug\ProxySwitcher.exe.config
+C:\Other Dev\ProxySwitcher\ProxySwitcher\bin\Debug\ProxySwitcher.exe
+C:\Other Dev\ProxySwitcher\ProxySwitcher\bin\Debug\ProxySwitcher.pdb
+C:\Other Dev\ProxySwitcher\ProxySwitcher\obj\Debug\ProxySwitcher.csprojResolveAssemblyReference.cache
+C:\Other Dev\ProxySwitcher\ProxySwitcher\obj\Debug\ProxySwitcher.Properties.Resources.resources
+C:\Other Dev\ProxySwitcher\ProxySwitcher\obj\Debug\ProxySwitcher.csproj.GenerateResource.Cache
+C:\Other Dev\ProxySwitcher\ProxySwitcher\obj\Debug\ProxySwitcher.exe
+C:\Other Dev\ProxySwitcher\ProxySwitcher\obj\Debug\ProxySwitcher.pdb
+C:\Other Dev\ProxySwitcher\ProxySwitcher\obj\Debug\ProxySwitcher.ProxySwitcher.resources
