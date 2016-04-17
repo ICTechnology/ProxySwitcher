@@ -1,9 +1,13 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
-VisualStudioVersion = 14.0.23107.0
+VisualStudioVersion = 14.0.25123.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProxySwitcher", "ProxySwitcher\ProxySwitcher.csproj", "{B70DC44C-7DE8-4C80-9B83-C1E35F5AB4F2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProxySwitcher.Core", "ProxySwitcher.Core\ProxySwitcher.Core.csproj", "{73623BBB-A8E3-4CF4-A255-B09071D4BCA2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProxySwitcher.Core.Test", "ProxySwitcher.Core.Test\ProxySwitcher.Core.Test.csproj", "{9DEAE624-522B-4994-92A3-9BAA51FDA5F9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +19,14 @@ Global
 		{B70DC44C-7DE8-4C80-9B83-C1E35F5AB4F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B70DC44C-7DE8-4C80-9B83-C1E35F5AB4F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B70DC44C-7DE8-4C80-9B83-C1E35F5AB4F2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{73623BBB-A8E3-4CF4-A255-B09071D4BCA2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73623BBB-A8E3-4CF4-A255-B09071D4BCA2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73623BBB-A8E3-4CF4-A255-B09071D4BCA2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73623BBB-A8E3-4CF4-A255-B09071D4BCA2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9DEAE624-522B-4994-92A3-9BAA51FDA5F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9DEAE624-522B-4994-92A3-9BAA51FDA5F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9DEAE624-522B-4994-92A3-9BAA51FDA5F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9DEAE624-522B-4994-92A3-9BAA51FDA5F9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

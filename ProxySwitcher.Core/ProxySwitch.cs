@@ -1,11 +1,11 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-using System.Runtime.InteropServices;
-using Microsoft.Win32;
-
-namespace ProxySwitcher
+﻿namespace ProxySwitcher.Core
 {
+    using System;
+    using System.Collections.Generic;
+    using System.Text;
+    using System.Runtime.InteropServices;
+    using Microsoft.Win32;
+
     public class ProxySwitch : IProxySwitch
     {
         [DllImport("wininet.dll")]
@@ -61,7 +61,6 @@ namespace ProxySwitcher
         public string CheckProxyConnectionString()
         {
             return registry.GetValue("ProxyServer").ToString();                
-        }
-        
+        }        
     }
 }

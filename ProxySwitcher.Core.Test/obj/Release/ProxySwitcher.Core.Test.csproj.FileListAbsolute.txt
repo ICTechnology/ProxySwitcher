@@ -1,0 +1,7 @@
+C:\GitHub\ProxySwitcher\ProxySwitcher.Core.Test\bin\Release\ProxySwitcher.Core.Test.dll
+C:\GitHub\ProxySwitcher\ProxySwitcher.Core.Test\bin\Release\ProxySwitcher.Core.Test.pdb
+C:\GitHub\ProxySwitcher\ProxySwitcher.Core.Test\bin\Release\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\GitHub\ProxySwitcher\ProxySwitcher.Core.Test\bin\Release\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\GitHub\ProxySwitcher\ProxySwitcher.Core.Test\obj\Release\ProxySwitcher.Core.Test.csprojResolveAssemblyReference.cache
+C:\GitHub\ProxySwitcher\ProxySwitcher.Core.Test\obj\Release\ProxySwitcher.Core.Test.dll
+C:\GitHub\ProxySwitcher\ProxySwitcher.Core.Test\obj\Release\ProxySwitcher.Core.Test.pdb
