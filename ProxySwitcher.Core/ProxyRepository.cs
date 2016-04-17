@@ -8,6 +8,6 @@
 
     public class ProxyRepository : System.Collections.Generic.List<IProxyDetails>, IProxyRepository
     {
-
+       
     }
 }

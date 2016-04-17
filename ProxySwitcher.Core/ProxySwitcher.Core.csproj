@@ -43,10 +43,12 @@
     <Compile Include="Interfaces\IProxyRepository.cs" />
     <Compile Include="Interfaces\IProxyDetails.cs" />
     <Compile Include="Interfaces\IProxySwitch.cs" />
+    <Compile Include="Interfaces\IUserProfile.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="ProxyDetails.cs" />
     <Compile Include="ProxyRepository.cs" />
     <Compile Include="ProxySwitch.cs" />
+    <Compile Include="UserProfile.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

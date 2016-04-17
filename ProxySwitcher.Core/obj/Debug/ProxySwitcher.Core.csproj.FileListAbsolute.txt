@@ -1,0 +1,5 @@
+C:\GitHub\ProxySwitcher\ProxySwitcher.Core\bin\Debug\ProxySwitcher.Core.dll
+C:\GitHub\ProxySwitcher\ProxySwitcher.Core\bin\Debug\ProxySwitcher.Core.pdb
+C:\GitHub\ProxySwitcher\ProxySwitcher.Core\obj\Debug\ProxySwitcher.Core.dll
+C:\GitHub\ProxySwitcher\ProxySwitcher.Core\obj\Debug\ProxySwitcher.Core.pdb
+C:\GitHub\ProxySwitcher\ProxySwitcher.Core\obj\Debug\ProxySwitcher.Core.csprojResolveAssemblyReference.cache

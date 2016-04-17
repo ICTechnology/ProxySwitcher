@@ -7,3 +7,14 @@ C:\Other Dev\ProxySwitcher\ProxySwitcher\obj\Debug\ProxySwitcher.csproj.Generate
 C:\Other Dev\ProxySwitcher\ProxySwitcher\obj\Debug\ProxySwitcher.exe
 C:\Other Dev\ProxySwitcher\ProxySwitcher\obj\Debug\ProxySwitcher.pdb
 C:\Other Dev\ProxySwitcher\ProxySwitcher\obj\Debug\ProxySwitcher.ProxySwitcher.resources
+C:\GitHub\ProxySwitcher\ProxySwitcher\bin\Debug\ProxySwitcher.exe.config
+C:\GitHub\ProxySwitcher\ProxySwitcher\obj\Debug\ProxySwitcher.exe
+C:\GitHub\ProxySwitcher\ProxySwitcher\obj\Debug\ProxySwitcher.pdb
+C:\GitHub\ProxySwitcher\ProxySwitcher\bin\Debug\ProxySwitcher.exe
+C:\GitHub\ProxySwitcher\ProxySwitcher\bin\Debug\ProxySwitcher.pdb
+C:\GitHub\ProxySwitcher\ProxySwitcher\bin\Debug\ProxySwitcher.Core.dll
+C:\GitHub\ProxySwitcher\ProxySwitcher\bin\Debug\ProxySwitcher.Core.pdb
+C:\GitHub\ProxySwitcher\ProxySwitcher\obj\Debug\ProxySwitcher.csprojResolveAssemblyReference.cache
+C:\GitHub\ProxySwitcher\ProxySwitcher\obj\Debug\ProxySwitcher.ProxySwitcher.resources
+C:\GitHub\ProxySwitcher\ProxySwitcher\obj\Debug\ProxySwitcher.Properties.Resources.resources
+C:\GitHub\ProxySwitcher\ProxySwitcher\obj\Debug\ProxySwitcher.csproj.GenerateResource.Cache
